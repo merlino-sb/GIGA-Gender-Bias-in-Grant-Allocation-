@@ -1,4 +1,4 @@
-# GIGA-Gender-Bias-in-Grant-Allocation-
+# GIGA-Gender Bias in Grant Allocation-
 
 This folder hosts the code for the paper "Gender diversity of research consortia contributesto funding decisions in a multi-stage grantpeer-review process" (Stefano Bianchini, Patrick Llerena, Sıla Öcalan-Özel, and Emre Özel, 2021).
 
